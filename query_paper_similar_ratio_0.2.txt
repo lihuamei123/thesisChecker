@@ -1,0 +1,377 @@
+Query    = 1Open access Jie Sun,1 Zicheng Zhang,1 Siqi Bao,1 Congcong Yan, 1 Ping Hou,1 Nan Wu, 2 Jianzhong Su,1 Liangde Xu,1 Meng Zhou    1To cite:  Sun˜J, Zhang˜Z, Bao˜S,  et˜al.  Identi˚cation of tumor   immune in˚ltration-  associated   lncRNAs for improving prognosis  and immunotherapy response   of patients with non-  small cell lung cancer.  Journal for  ImmunoTherapy of Cancer   2020;8:e000110. doi:10.1136/  jitc-2019-000110 Additional material is  published online only.
+
+Hit      = e001942.full.pdf
+Score    = 0.24534730444646308
+Sentence = Journal for  ImmunoTherapy of Cancer   2021;9:e001942. doi:10.1136/  jitc-2020-001942 Additional material is  published online only.
+
+
+
+//************************************************
+Query    = To view   please visit the journal online  (http:// dx. doi. org/ 10. 1136/ jitc-  2019- 000110).
+
+Hit      = e001942.full.pdf
+Score    = 0.8365555563250879
+Sentence = To view,   please visit the journal online  (http:// dx. doi. org/ 10. 1136/ jitc- 2020- 001942).
+
+
+
+//************************************************
+Query    = ABSTRACTBackground Increasing evidence has demonstrated the  functional relevance of long non- coding RNAs (lncRNAs) to immunity regulation and the tumor microenvironment  in non- small cell lung cancer (NSCLC).
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.20792489085673246
+Sentence = Long non-coding RNAs (lncRNAs) are classi˜ed as  transcripts that are longer than 200 nucleotides and do   not encode proteins.
+
+
+
+//************************************************
+Query    = MATERIALS AND METHODSPatient and tumor cell line cohorts Clinical information and transcriptional profiles of  patients with NSCLC were obtained from the Gene Expres- sion Omnibus (GEO, http://www.  ncbi. nlm. nih. gov/ geo)  and The Cancer Genome Atlas (TCGA, https://  portal. gdc. cancer.  gov) according to following selection criteria:  (1) have basic clinical information of stage, age, gender,   overall survival (OS) and survival status; (2) based on   the Affymetrix HG- U133_Plus 2.0 platform or Illumina-HiSeq platform; and (3) have larger sample size (>200).  After filtering, a total of 1533 patients with NSCLC from   three data sets were enrolled in this study, including   293 patients in GSE30219 from Rousseaux et al™s study  (https://www.  ncbi. nlm. nih. gov/ geo/ query/  acc. cgi? acc= GSE30219),23 226 patients in GSE31210 from Okayama et al™s study (https://www.  ncbi. nlm. nih. gov/ geo/ query/   acc. cgi? acc= GSE31210)24 and 1014 patients from TCGA (https:// portal. gdc. cancer.  gov).
+
+Hit      = bbz118.pdf
+Score    = 0.49365646388543416
+Sentence = Anothertwoindependentbreastcancervalidationsets  GSE3494[ 31 ]andGSE31448[ 32 ]withlargesamplesizeand commonclinicopathologicalcharacteristicswereobtainedfrom  theGeneExpressionOmnibus(GEO)database( https://www. ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE3494 and https:// www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE31448 ). Inaddition,somaticmutationinformationandthecorre- spondinglncRNAsexpressiondataof294OVpatientswerealso  downloadedfromTCGAandTANRICdatabase.
+
+Hit      = PIIS2162253120301621.pdf
+Score    = 0.35932661441017233
+Sentence = Tovalidatethatm 6Amethylationregulatorsharboredthesamein u-enceonimmunemodulationandsurvivalinadditionalHNSCC  cases,weselectedeligibleGEO:GSE65858datasetfromtheGene  ExpressionOmnibus(GEO; https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65858)astheexternalvalidationcohort. ConsistentwithTCGAanalysis,patientswithlow-riskscorehad longerOSthanpatientswithhigh-riskscore(p=0.0025)( Figure8 A).
+
+
+
+//************************************************
+Query    = The detailed clinical information of   three patient sets was shown in table 1.
+
+Hit      = e001942.full.pdf
+Score    = 0.2141183545512051
+Sentence = 3Open accessRESULTS Clinical characteristics of the study cohorts The detailed clinical characteristics are shown in  table 1 and online supplemental table S1.
+
+
+
+//************************************************
+Query    = By matching the NetAffx annotation  files (HG- U133 Plus 2.0 Annotations, CSV format, release 36, July 12, 2016) of the probe sets and the annotation files  of Refseq (release 79) and GENCODE (release 25), we  extracted probe sets with Refseq IDs which were labeled  as ‚NR_™ and annotated with ‚long non- coding RNA™ in  Refseq database and with Ensembl gene IDs which were  annotated as ‚long non- coding RNA™ in GENCODE  project.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.20704640932166873
+Sentence = The functional role of long non-coding RNA   in human carcinomas.
+
+
+
+//************************************************
+Query    = The prognostic value of NSCLC TILn- cRNAs was evaluated by univariate Cox proportional  hazards regression analysis in the training data set.
+
+Hit      = e001942.full.pdf
+Score    = 0.22707919404823876
+Sentence = Estimates  are based on a Cox proportional hazards model.
+
+
+
+//************************************************
+Query    = Univariate and multivariate analyses with Cox   proportional hazards regression for OS and DFS were  performed on the individual clinical variables with and   without TILSig in each data set.
+
+Hit      = e001942.full.pdf
+Score    = 0.2162998301901533
+Sentence = Estimates  are based on a Cox proportional hazards model.
+
+
+
+//************************************************
+Query    = For natural killer T cells and dendritic cells,  we detected two specific icsLncRNAs ( LINC00892 and  LINC00515) and one icsLncRNA (LINC00158), respec- tively.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.20510376200805103
+Sentence = Lymphocytes, including T cells, B cells, and   natural killer cells, are the main force underlying immune   defense mechanisms.
+
+
+
+//************************************************
+Query    = Top 5% expressed  long non- coding RNAs (lncRNAs) were obtained as candidate immune-  related lncRNAs for each immune cell line.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.2775998720826541
+Sentence = Long non-coding RNAs (lncRNAs) are classi˜ed as  transcripts that are longer than 200 nucleotides and do   not encode proteins.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.2566446100559341
+Sentence = Identi˚cation of˜immune-related lncRNAs Immune-related lncRNAs were screened by co-expres-sion analysis of immune-related genes from the list as   described above.
+
+
+
+//************************************************
+Query    = The 5- year survival rate of the low-  risk group was 60.4% which is significantly higher than that of the high- risk group (37.9%).
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.234938216244179
+Sentence = The OS of patients in the low-risk group was higher than that of patients in the high-risk group   (p ˜ 1.215e ˚ 06 in the training set; p ˜ 0.0069 in the validation set; p ˜ 1.233e ˚ 07 in whole cohort).
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.22934431677870365
+Sentence = In   the current study, we identi˜ed a novel immune-related   lncRNA molecular signature using Cox and Lasso regres-sion analyses. ˛e signature was then validated in a test-ing group and a total group, indicative of its robustness   and reliability. ˛e signature demonstrated good predic-tive performance and could e˚ectively classify breast can-cer patients into a high-risk and a low-risk group within   the training and validation sets. ˛e low-risk group had   a signi˜cantly longer overall survival compared with the   high-risk group.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.21222220773089837
+Sentence = As for the total cohort, the 1-year  AUC was 0.725, the 5-year AUC was 0.678, the 8-year   AUC was 0.742,and the 10-year AUC was 0.741 (Fig.˝ 2f). Principal component analysis (PCA) of the training,  testing, and total breast cancer cohort demonstrated a   di˚erent distribution pattern between the high- and low-  risk groups, based on the expression of the 8 immune-  related lncRNAs. ˛is was indicative of the di˚erence   between the immune phenotypes of the groups (Addi-tional ˜le˝6: Figure S4). Assessment of˜the˜correlation between˜candidate lncRNAs  and˜clinicopathological characteristics We generated risk curves and scatter plots to display  the risk score and survival status of each breast cancer   patient, not only in the training set, but also in the testing   and in the total set. ˛e risk coeˆcient and mortality in   the low-risk group were lower than those in the high-risk   group (Fig.˝ 3aŒf). Tumors with high prognostic scores expressed high- risk immune-related lncRNAs, whereas tumors with low   prognostic scores expressed protective immune-related   lncRNAs. ˛e heatmap revealed that OTUD6B-AS1,   AL161646.1, and LINC00578 were highly expressed   in the low-risk group, while AC136475.2, AL122010.1,   LINC01871, and AP000442.2 were highly expressed in   the high-risk group (Fig.˝ 3gŒi).
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.2049409439880251
+Sentence = J Transl Med          (2020) 18:442  KaplanŒMeier test. ˛e  p value of the log-rank test was  1.215e ˚ 06, indicating that patients in the low-risk group  had a 10˝year longer median OS compared with the   high-risk group.
+
+
+
+//************************************************
+Query    = As shown in figure 2D, patients in the low- risk group were enriched with 10 immune subpopulations,  while only four immune subpopulations were enriched  in patients with high risk.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.20573293635511894
+Sentence = The OS of patients in the low-risk group was higher than that of patients in the high-risk group   (p ˜ 1.215e ˚ 06 in the training set; p ˜ 0.0069 in the validation set; p ˜ 1.233e ˚ 07 in whole cohort).
+
+
+
+//************************************************
+Query    = The median risk score cut- off point obtained from TCGA data set classified 979 patients into the  high- risk group (n=490) and low- risk group (n=489).
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.2411500545221612
+Sentence = The OS of patients in the low-risk group was higher than that of patients in the high-risk group   (p ˜ 1.215e ˚ 06 in the training set; p ˜ 0.0069 in the validation set; p ˜ 1.233e ˚ 07 in whole cohort).
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.20564483360167862
+Sentence = In   the current study, we identi˜ed a novel immune-related   lncRNA molecular signature using Cox and Lasso regres-sion analyses. ˛e signature was then validated in a test-ing group and a total group, indicative of its robustness   and reliability. ˛e signature demonstrated good predic-tive performance and could e˚ectively classify breast can-cer patients into a high-risk and a low-risk group within   the training and validation sets. ˛e low-risk group had   a signi˜cantly longer overall survival compared with the   high-risk group.
+
+
+
+//************************************************
+Query    = The 5- year survival rate of the low-  risk group is 43.8%, whereas the corresponding rate in the high-  risk group is 37.1%.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.2228897338355514
+Sentence = In   the current study, we identi˜ed a novel immune-related   lncRNA molecular signature using Cox and Lasso regres-sion analyses. ˛e signature was then validated in a test-ing group and a total group, indicative of its robustness   and reliability. ˛e signature demonstrated good predic-tive performance and could e˚ectively classify breast can-cer patients into a high-risk and a low-risk group within   the training and validation sets. ˛e low-risk group had   a signi˜cantly longer overall survival compared with the   high-risk group.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.21257966985375465
+Sentence = The OS of patients in the low-risk group was higher than that of patients in the high-risk group   (p ˜ 1.215e ˚ 06 in the training set; p ˜ 0.0069 in the validation set; p ˜ 1.233e ˚ 07 in whole cohort).
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.20624950319032892
+Sentence = As for the total cohort, the 1-year  AUC was 0.725, the 5-year AUC was 0.678, the 8-year   AUC was 0.742,and the 10-year AUC was 0.741 (Fig.˝ 2f). Principal component analysis (PCA) of the training,  testing, and total breast cancer cohort demonstrated a   di˚erent distribution pattern between the high- and low-  risk groups, based on the expression of the 8 immune-  related lncRNAs. ˛is was indicative of the di˚erence   between the immune phenotypes of the groups (Addi-tional ˜le˝6: Figure S4). Assessment of˜the˜correlation between˜candidate lncRNAs  and˜clinicopathological characteristics We generated risk curves and scatter plots to display  the risk score and survival status of each breast cancer   patient, not only in the training set, but also in the testing   and in the total set. ˛e risk coeˆcient and mortality in   the low-risk group were lower than those in the high-risk   group (Fig.˝ 3aŒf). Tumors with high prognostic scores expressed high- risk immune-related lncRNAs, whereas tumors with low   prognostic scores expressed protective immune-related   lncRNAs. ˛e heatmap revealed that OTUD6B-AS1,   AL161646.1, and LINC00578 were highly expressed   in the low-risk group, while AC136475.2, AL122010.1,   LINC01871, and AP000442.2 were highly expressed in   the high-risk group (Fig.˝ 3gŒi).
+
+
+
+//************************************************
+Query    = We also performed multivariate  Cox analysis of DFS for each data set and found that   the TILSig still maintained an independent correlation   with DFS (p=0.024, HR=1.570, 95% CI 1.062 to 2.320 for  training set and p=0.034, HR=1.728, 95 % CI 1.043 to  2.863) (table 3).
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.21203126712871334
+Sentence = A total of 8 immune-related lncRNAs  were obtained, including OTUD6B-AS1(HR  ˜ 1.698; 95%  CI 1.066Œ2.707,  p ˜ 0.026), AL122010.1(HR  ˜ 0.404; 95%  CI 0.209Œ0.782,  p ˜ 0.007), AC136475.2(HR  ˜ 0.596; 95%  CI 0.369Œ0.964,  p ˜ 0.035), AL161646.1(HR  ˜ 1.215; 95%  CI 0.954Œ1.549,  p ˜ 0.115), AC245297.3(HR  ˜ 0.710;95%  CI 0.450Œ1.121,  p ˜ 0.142), LINC00578(HR  ˜ 1.269; 95%  CI 1.001Œ1.609,  p ˜ 0.049), LINC01871(HR  ˜ 0.657; 95%  CI 0.448Œ0.964,  p ˜ 0.032), AP000442.2 (HR  ˜ 0.335; 95%  CI 0.101Œ1.115,  p ˜ 0.075) (Fig.˝ 1d, Table˝ 3).
+
+
+
+//************************************************
+Query    = Author af˜liations1School of Biomedical Engineering, School of Ophthalmology & Optometry and Eye  Hospital, Wenzhou Medical University, Wenzhou, China 2Department of Orthopedic Surgery, Peking Union Medical College Hospital, Peking  Union Medical College and Chinese Academy of Medical Sciences, Beijing, China Contributors MZ and LX designed the study.
+
+Hit      = e001942.full.pdf
+Score    = 0.5332557988650043
+Sentence = In clinical practice, the cfDNA CNV risk score  may provide valuable resources for personalized hepato- biliary cancer combination immunotherapy regimens. Author af˜liations1Department of Liver Surgery, State Key Laboratory of Complex Severe and Rare  Diseases, Peking Union Medical College Hospital, Chinese Academy of Medical  Sciences and Peking Union Medical College, Beijing, China 2Center of Integrative Medicine, Beijing Ditan Hospital, Capital Medical University,  Beijing, China 3Genecast Biotechnology Co., Ltd, Wuxi, China 4Department of Medical Oncology, Peking Union Medical College Hospital, Chinese  Academy of Medical Sciences and Peking Union Medical College, Beijing, China 5Department of Radiology, Peking Union Medical College Hospital, Chinese Academy  of Medical Sciences and Peking Union Medical College, Beijing, China 6Department of Nuclear Medicine, Peking Union Medical College Hospital, Chinese  Academy of Medical Sciences and Peking Union Medical College, Beijing, China 7Center of Radiotherapy, Peking Union Medical College Hospital, Chinese Academy  of Medical Sciences and Peking Union Medical College, Beijing, China 8Department of Immunology, School of Basic Medical Sciences, Capital Medical  University, Beijing, China 9Beijing Shijitan Hospital, Capital Medical University, Beijing, China; Ninth School  of Clinical Medicine, Peking University, Beijing, China; School of Oncology, Capital   Medical University, Beijing, China 10Institute of Infectious Diseases, Beijing Ditan Hospital, Capital Medical University,  Beijing, China Acknowledgements The authors would like to thank all the participating patients  and their families.
+
+Hit      = e001942.full.pdf
+Score    = 0.24696290103754376
+Sentence = METHODS Patients  A total of 471 patients with hepatobiliary cancers   were screened from two clinical trials (NCT03895970,  NCT03892577) at the Peking Union Medical College  Hospital.
+
+Hit      = e001942.full.pdf
+Score    = 0.24265417948764628
+Sentence = After excluding 284 patients with reasons, three cohorts including 187 patients with hepatobiliary cancers were  recruited from clinical trials at the Peking Union Medical College Hospital.
+
+
+
+//************************************************
+Query    = All authors read and approved the ˚nal manuscript. Funding This study was supported by the National Natural Science Foundation  of China (grant numbers 61973240) and the Scienti˚c Research Foundation for  Talents of Wenzhou Medical University (QTJ18024 and QTJ18023). Disclaimer  The funders had no roles in study design, data collection and analysis,  decision to publish, or preparation of the manuscript. Competing interests None declared. Patient consent for publication  Not required.
+
+Hit      = e001942.full.pdf
+Score    = 0.2487975531658367
+Sentence = Patient consent for publication  Not required.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.2462217909970491
+Sentence = All authors read and approved the ˜nal manuscript. Funding National Science Foundation for Young Scientists of China (Grant   No.81600777).  Natural Science Foundation of Liaoning Province (Grant No. 2013225585).  China Postdoctoral Science Foundation: (Grant No. 2019M650057).  China Postdoctoral Science Foundation: (Grant No. 2017M621178).  Natural Science Foundation of Liaoning Province (Grant No.2020-MS-183). Availability of data and materials The datasets analysed during the current study are available in the TCGA   repository ( https ://cance rgeno  me.nih.gov/ ).
+
+Hit      = e001942.full.pdf
+Score    = 0.21159007173793473
+Sentence = Competing interests None declared.
+
+
+
+//************************************************
+Query    = Data availability statement  Data are available in a public, open access repository.  The data sets analyzed during the current study are available in the Gene  Expression Omnibus (GEO, https://www.  ncbi. nlm. nih. gov/ geo/) and The Cancer  Genome Atlas (TCGA) network (https://  cancergenome. nih. gov/) and the Cancer Cell Line Encyclopedia (CCLE) project (https://  portals. broadinstitute. org/ ccle). Open access This is an open access article distributed in accordance with the  Creative Commons Attribution Non Commercial (CC BY-  NC 4.0) license, which  permits others to distribute, remix, adapt, build upon this work non-  commercially,  and license their derivative works on different terms, provided the original work is  properly cited, appropriate credit is given, any changes made indicated, and the use   is non-  commercial.
+
+Hit      = e001942.full.pdf
+Score    = 0.24884918657506133
+Sentence = Where the content   includes any translated material, BMJ does not warrant the accuracy and reliability   of the translations (including but not limited to local regulations, clinical guidelines,   terminology, drug names and drug dosages), and is not responsible for any error   and/or omissions arising from translation and adaptation or otherwise. Open access This is an open access article distributed in accordance with the Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits  others to copy, redistribute, remix, transform and build upon this work for any   purpose, provided the original work is properly cited, a link to the licence is given,   and indication of whether changes were made.
+
+
+
+//************************************************
+Query    = ORCID iDMeng˜Zhou http:// orcid. org/ 0000- 0001- 9987- 9024REFERENCES 1 Siegel RL, Miller KD, Jemal A.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.5132835366108923
+Sentence = Siegel RL, Miller KD, Jemal A.
+
+Hit      = e001942.full.pdf
+Score    = 0.22726138490545575
+Sentence = ORCID iD Haitao˜Zhao http:// orcid. org/ 0000- 0002- 3444- 8044REFERENCES 1 Benson AB, D'Angelica MI, Abbott DE, et˜al.
+
+
+
+//************************************************
+Query    = CA Cancer J Clin 2019;69:7Œ34. 2 Zhou M, Guo M, He D, et˜al.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.5469101299429648
+Sentence = CA Cancer J Clin. 2019;69(6):438Œ51.  2.
+
+Hit      = bbz118.pdf
+Score    = 0.30782009935727717
+Sentence = Cancerstatistics,2019. CA CancerJClin 2019; 69 :7Œ34. 3.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.23674953169008794
+Sentence = CA Cancer J Clin.   2020;70(1):7Œ30. 3.
+
+
+
+//************************************************
+Query    = Emerging functional and  mechanistic paradigms of mammalian long non- coding RNAs.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.23473486914271405
+Sentence = The functional role of long non-coding RNA   in human carcinomas.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.23293051423079986
+Sentence = Long non-coding RNAs (lncRNAs) are classi˜ed as  transcripts that are longer than 200 nucleotides and do   not encode proteins.
+
+
+
+//************************************************
+Query    = Nucleic Acids Res 2012;40:6391Œ400. 11 Zhou M, Zhao H, Wang X,  et˜al.
+
+Hit      = PIIS2162253120301621.pdf
+Score    = 0.2636938886439253
+Sentence = J.,Zhao,R.,Wang,Y.
+
+
+
+//************************************************
+Query    = Gene regulation in the immune  system by long noncoding RNAs.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.35205972238244176
+Sentence = Long noncoding RNAs as regulators of   cancer immunity.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.3080626867761609
+Sentence = The functions of long noncoding RNAs in development   and stem cells.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.29584682791730443
+Sentence = Expression pro˜les   of long noncoding RNAs in lung adenocarcinoma.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.2602913340987348
+Sentence = From discovery to function: the expanding roles   of long noncoding RNAs in physiology and disease.
+
+
+
+//************************************************
+Query    = Emerging role of long noncoding  RNAs as regulators of innate immune cell development and  in˛ammatory gene expression.  Eur J Immunol 2016;46:504Œ12. 17 Hu G, Tang Q, Sharma S,  et˜al.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.2563784647272129
+Sentence = Long noncoding RNAs as regulators of   cancer immunity.
+
+
+
+//************************************************
+Query    = Nat Immunol 2015;16:318Œ25. 19 Denaro N, Merlano MC, CJMo LN.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.30613385117643577
+Sentence = Denaro N, Merlano MC, Lo NC.
+
+
+
+//************************************************
+Query    = Long noncoding RNA S as  regulators of cancer immunity 2019;13:61Œ73.  20 Wang L, Felts SJ, Van Keulen VP,  et˜al.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.2739444392359144
+Sentence = Long noncoding RNAs as regulators of   cancer immunity.
+
+
+
+//************************************************
+Query    = Integrative genome- wide analysis of long noncoding RNAs in diverse immune cell types of  melanoma patients.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.21672196120319073
+Sentence = Long noncoding RNAs as regulators of   cancer immunity.
+
+
+
+//************************************************
+Query    = Lncrna SATB2-  AS1 inhibits tumor metastasis and affects the tumor immune cell microenvironment in   colorectal cancer by regulating SATB2.  Mol Cancer 2019;18:135. 23 Rousseaux S, Debernardi A, Jacquiau B,  et˜al.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.2214331771552125
+Sentence = Mol Cancer. 2019;18(1):15.  29.
+
+
+
+//************************************************
+Query    = Bioinformatics  2005;21:650Œ9. 28 Zhou M, Zhao H, Wang Z,  et˜al.
+
+Hit      = PIIS2162253120301621.pdf
+Score    = 0.29819867079001317
+Sentence = J.,Zhao,R.,Wang,Y.
+
+
+
+//************************************************
+Query    = Identi˚cation and validation of potential prognostic lncRNA biomarkers for predicting survival in  patients with multiple myeloma.
+
+Hit      = s12967-020-02522-6.pdf
+Score    = 0.22292111413886573
+Sentence = Identi˜cation and validation of immune-related   lncRNA prognostic signature for breast cancer.
+
+
+
+//************************************************
+Query    = J Exp Clin Cancer Res 2015;34:102. 29 Yu G, Wang L-  G, Han Y,  et˜al. clusterPro˚ler: an R package for  comparing biological themes among gene clusters.
+
+Hit      = 1-s2.0-S2162253120302134-main.pdf
+Score    = 0.20448570348500245
+Sentence = Yu,G.,Wang,L.
+
+
+
+//************************************************
+Query    = OMICS  2012;16:284Œ7. 30 Thorsson V, Gibbs DL, Brown SD,  et˜al.
+
+Hit      = bbz118.pdf
+Score    = 0.25142567634261265
+Sentence = YuG,WangLG,HanY, etal. clusterProfiler:anRpackagefor comparingbiologicalthemesamonggeneclusters. OMICS 2012; 16 :284Œ7. 34.
+
+
+
+//************************************************
+Query    = Clin Cancer Res  2019;25:4592Œ602. 43 Lupo A, Alifano M, Wislez M, et˜al.
+
+Hit      = e001942.full.pdf
+Score    = 0.25278024964296814
+Sentence = Alterations in DNA damage repair genes in  primary liver cancer.  Clin Cancer Res 2019;25:4701Œ11. 3 Sangro B, Park J, Finn R, et˜al.
+
+Hit      = e001942.full.pdf
+Score    = 0.2286010227635428
+Sentence = Combination of TMB and CNA Strati˚es prognostic and predictive responses to immunotherapy across   metastatic cancer.  Clin Cancer Res 2019;25:7413Œ23. 34 Lu Z, Chen H, Li S, et˜al.
+
+
+
+//************************************************
