@@ -6,7 +6,7 @@ Dependency
 --------
 
 MSearcher's code is written use python3.6 on Ubuntu(16.04) system.
-* Python > 3.6:
+* Python3.9:
 	* PyPDF2
 	* sklearn
 * Support systems:
