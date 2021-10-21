@@ -5,7 +5,7 @@ A python tool for checking the copy ratio of a manuscript.
 Dependency
 --------
 
-MSearcher's code is written use python3.6 on Ubuntu(16.04) system.
+MSearcher's code is written use python3.6 on Windows system.
 * Python3.9:
 	* PyPDF2
 	* sklearn
